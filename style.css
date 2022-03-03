@@ -1,1 +1,129 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+
+body{
+    font-family: Source Sans Pro;
+    background-color:  #eee;
+    text-align: center;
+}
+
+.date{
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+}
+
+.newspaper-container{
+    margin: auto;
+    width: 700px;
+    background-color: white;
+    border-radius: 1%;
+    text-align: center;
+    padding: 60px;
+    box-shadow: 10px 5px 5px #ddd;
+}
+
+header{
+    font-family: Abril Fatface;
+}
+
+h2{
+    margin: 0px;
+    padding: 0px;
+    font-family: Roboto Slab;
+    text-align: left;
+}
+
+h5{
+    margin-top: 10px;
+    padding: 0px;
+    font-family: Roboto Slab;
+    color:  #dd3232;
+    text-align: left;
+}
+
+.newspaper-container nav a{
+    color: #777;
+    text-decoration: none;
+}
+
+.newspaper-container nav ul{
+    list-style-type: none;
+    padding: 0;
+    border-top: 1px rgb(226, 226, 226) solid;
+    border-bottom: 1px rgb(226, 226, 226) solid;    
+}
+
+.newspaper-container nav ul li{
+    display: inline-block;
+    padding: 5px;
+}
+
+main img{
+    width: 100%;
+}
+
+main{
+    border-bottom: 1px rgb(226, 226, 226) solid;
+    padding: 14px;
+}
+
+.more-articles section{
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+    text-align: left;
+    
+}
+
+.more-articles h4{
+    font-family: Roboto Slab;
+}
+
+.bonus-articles section{
+    display: inline-block;
+    margin: 0px;
+    width: 100%;
+    padding: 6%;
+    text-align: left;
+    margin-top: -70px;
+}
+.bonus-articles img{
+    width: 100%;
+    height: 100%;
+}
+.bonus-articles h4{
+    font-family: Roboto Slab;
+}
+
+footer nav a{
+    color: #777;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+footer nav ul{
+    list-style-type: none;
+    padding: 0;
+    border-top: 1px rgb(226, 226, 226) solid;
+}
+
+footer nav ul li{
+    display: inline-block;
+    padding: 5px;
+}
+
+© 2022 GitHub, Inc.
+
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
+Loading complete 
