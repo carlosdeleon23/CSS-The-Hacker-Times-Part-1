@@ -18,12 +18,14 @@ body{
     background-color: white;
     border-radius: 1%;
     text-align: center;
-    padding: 60px;
+    padding: 50px;
     box-shadow: 10px 5px 5px #ddd;
+    
 }
 
 header{
     font-family: Abril Fatface;
+    
 }
 
 h2{
@@ -31,6 +33,7 @@ h2{
     padding: 0px;
     font-family: Roboto Slab;
     text-align: left;
+    margin-left: -40px;
 }
 
 h5{
@@ -39,32 +42,44 @@ h5{
     font-family: Roboto Slab;
     color:  #dd3232;
     text-align: left;
+    margin-left: -40px;
+}
+
+#one {
+    text-align: left;
+    margin-left: -40px;
 }
 
 .newspaper-container nav a{
     color: #777;
     text-decoration: none;
+    
 }
 
 .newspaper-container nav ul{
     list-style-type: none;
     padding: 0;
     border-top: 1px rgb(226, 226, 226) solid;
-    border-bottom: 1px rgb(226, 226, 226) solid;    
+    border-bottom: 1px rgb(226, 226, 226) solid;
+    
+        
 }
 
 .newspaper-container nav ul li{
     display: inline-block;
     padding: 5px;
+    
 }
 
 main img{
     width: 100%;
+    margin-left: -80px;
 }
 
 main{
     border-bottom: 1px rgb(226, 226, 226) solid;
     padding: 14px;
+    
 }
 
 .more-articles section{
@@ -72,6 +87,7 @@ main{
     width: 100%;
     padding: 20px;
     text-align: left;
+    margin-left: -50px;
     
 }
 
@@ -86,6 +102,8 @@ main{
     padding: 6%;
     text-align: left;
     margin-top: -70px;
+    margin-left: -70px;
+    
 }
 .bonus-articles img{
     width: 100%;
